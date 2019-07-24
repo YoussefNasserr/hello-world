@@ -1,5 +1,4 @@
 # hello-world
-just another repo
 Team member at Eve Crafters Events. 
 Participating as a team member in the 
 organization of social events. 
